@@ -1,5 +1,5 @@
 # GUIA EXAM RANK 02
-![](4AC780F4-BD5E-4885-8DEF-6A52AA623D8E.jpeg)
+![](IMG_0010.jpeg)
 > by Davmoren
 
 Pequeña guia para entender los fundamentos del primer examen del cursus de la escuela 42
